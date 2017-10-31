@@ -10,7 +10,6 @@ You should NOT try to redefine any of the above variables.
 const newID = 1000000000 + oldID;
 
 
-
 const randomNumber = Math.floor(Math.random() * 20) + 0;
 
 const randomInteger = ${randomNumber.Math.floor(0.5)}
