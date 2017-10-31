@@ -13,7 +13,7 @@ const newID = oldID;
 
 const randomNumber = Math.floor(Math.random() * 20) + 0;
 
-
+const randomInteger = ${randomNumber.Math.floor(0.5)}
 
 
 const randomUserID = Math.floor(Math.random() * 1000000020) + 1000000001;
