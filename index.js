@@ -13,4 +13,4 @@ const newID = oldID;
 
 const randomNumber = Math.floor(Math.random() * 20) + 0;
 
-const randomInteger =
+const randomInteger = ;
